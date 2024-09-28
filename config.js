@@ -33,7 +33,7 @@ global.owner = [
 ["595971490733"],
 ["5215539356057"]]
 
-global.mods = []
+global.mods = [5492645880516]
 global.prems = []
 
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
